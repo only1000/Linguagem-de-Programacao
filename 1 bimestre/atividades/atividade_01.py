@@ -4,8 +4,6 @@ matricula=input("Digite o seu número de matricula: ")
 
 curso=input("Digite o seu curso matriculado: ")
 
-print("Nome: " + nome)
+print("\n--- Dados do Aluno ---\n")
 
-print("Número de Matrícula: " + matricula)
-
-print("Curso matriculado: " + curso)
+print(f" Nome: {nome}\n Número de matrícula: {matricula}\n Curso: {curso}")
