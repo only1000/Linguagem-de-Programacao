@@ -7,3 +7,5 @@ for nome in nomes:
         i.append(nome)
         
 print(i)
+
+#1
